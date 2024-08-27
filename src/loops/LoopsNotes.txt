@@ -1,0 +1,24 @@
+Loops or iteration
+
+1) for loop
+2) while
+3) do while
+
+Attendance => 50 students
+90%
+each student is having roll no  =>
+
+int[] arr = {20, 55, 66, 77, 25, 56, 89, 99, 55, 23, 44, 77};
+
+initialization => i = 0
+condition => i < arr.length
+
+for(int i = 0; i >=0; i++){
+
+}
+
+for loop
+for(initialization;condition;increment/decrement){
+
+
+ }

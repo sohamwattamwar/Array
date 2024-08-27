@@ -1,0 +1,29 @@
+
+School => attendance  50
+roll number
+seat number
+
+88   =>
+100 students => randomly seated in exam
+10 row  = 10 students
+
+Index or position?
+
+1 2 3 4 5 6 7 8 9 10
+
+size = total number of elements
+10
+1 to 10
+
+0  to 9
+
+25   total elements
+0 to 24   => index/pos
+0 to 26   =>
+
+
+{10,20,40,23,34534,4534, 33, 55, 66,99}
+10 20 40 23 34534 4534 33 55 66 99
+0  1  2   3   4    5    6  7  8  9
+
+

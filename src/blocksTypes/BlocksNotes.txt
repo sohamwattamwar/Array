@@ -1,0 +1,25 @@
+blocks gets called implicitly we do not call blocks explicitly.
+blocks do not have name and return type
+
+//Static Block Info====>>
+static blocks executes when the main() gets loaded into memory.
+we don't require to create object for static block.
+we can not write/declare static block with in main(),static(),nonstatic(),static block.
+we can declare it in only class body. with the static keyword.
+we can call static variable in static block also can declare and use local variables in static block
+we can not declare static block with another static block or any block.
+
+//Instance Block Info====>>
+instance blocks executes when we create object or instance of a class.
+we require to create object for instance block.
+we can write/declare instance block with in main(),static(),nonstatic(),static block.
+we can call static and instance variable in instance block
+also we can declare and use local variables in instance block
+we can declare instance block in static block,static method
+we can declare instance block within another instance block.
+also we can declare multiple instance block in single instance block
+
+//Execution flow of blocks
+1.all static blocks in order (line by line)[once we write main()]
+2.all instance block in order (line by line)[once we create obj]
+3.and methods in which order they are called in main method

@@ -1,0 +1,37 @@
+Java classes have extension .java
+In 1 .java file, we can create multiple Java classes but only 1 class with public keyword.
+
+What is Keywords in Java?
+There are few words in Java which have special meaning to Java, so we can not use them for class, methods or variables.
+These are kinds reserved words for Java language.
+
+Q) What are keywords in Java and list down all the keywords and their purpose?
+
+Army vehicles number plate
+
+Data types in Java
+1) Primitive data types
+byte short int float long double
+boolean char
+
+why we don't all containers of same size?
+
+create 1 class declare 10 variables with different data types in that class.
+Note down size of each primitive data type in Java.
+
+2) Non Primitive data types
+
+
+Methods
+=> We can create multiple methods in single java class
+=> We can not create methods with duplicate name and parameter list in same class.
+=> When we use void as return type for a method then writing return statement in method is optional.
+=> When we don't use void as return type for a method then writing return statement in method is must.
+=> you can use any primitive data type as a returntype for a method if you don't want to use void as returntype.
+
+
+Objects:
+=> We use Objects to access variables and methods inside the class.
+
+
+

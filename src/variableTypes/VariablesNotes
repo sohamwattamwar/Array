@@ -1,0 +1,20 @@
+for static variable it will take last updated value or last value provided
+by object will be applied for static variable
+BUT,if if we create 2 objects before printing statement and the use printing statement
+    for static variable value provided by second obj will be applied
+
+BUT IN CASE ==> we have created third obj after printing statement then
+                value for first two statement will be different
+                and for third statement is different because java executes code line by line
+e.g===>
+for static variable
+
+obj.a=1;
+obj1.a=2;
+
+sout will for a using obj==2;  //value changed
+sout will for a using obj1==2;
+then we againg provide value
+
+obj2.a=3;
+sout will for a using obj2==3;
